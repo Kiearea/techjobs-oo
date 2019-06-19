@@ -2,6 +2,10 @@
     margin-top: 72px;
 }
 
+.errors {
+    color: red;
+}
+
 td, th {
     padding: 10px;
 }
